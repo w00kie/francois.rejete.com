@@ -1,0 +1,58 @@
+body {
+	font-family: "Lucida Grande", Arial, sans-serif;
+	background: #DDD url("images/wood.jpg") repeat scroll;
+}
+
+
+#main {
+	margin: 10% auto auto;
+	padding-top: 1px;
+	width: 500px;
+	min-height: 304px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	background: url("images/paper.jpg") repeat top;
+	box-shadow: 5px 5px 5px #000;
+}
+
+#name {
+	margin: 16px auto;
+	display: table;
+	width: 450px;
+	padding-top: 5px;
+}
+
+h1 {
+	font-size: 3em;
+	margin: 0;
+	text-align: right;
+	line-height: 1;
+}
+
+h2 {
+	color: #999;
+	margin: 0;
+	text-align: right;
+	line-height: 1;
+}
+
+ul {
+	padding-bottom: 20px;
+}
+
+li {
+	padding: 3px 0;
+}
+
+li.selected {
+	list-style-type: circle;
+}
+
+#iconspot {
+	float: right;
+	margin-top: 8px;
+	padding-right: 30px;
+	height: 128px;
+	width: 128px;
+	overflow: hidden;
+}
