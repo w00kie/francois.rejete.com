@@ -58,3 +58,9 @@ li.selected {
 	width: 128px;
 	overflow: hidden;
 }
+
+#ipv6 {
+	position: absolute;
+	top: 0;
+	right: 0;
+}
