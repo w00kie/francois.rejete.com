@@ -1,0 +1,14 @@
+/* the humans responsible & colophon */
+/* humanstxt.org */
+
+
+/* TEAM */
+  Author: Francois Rejete
+  Site: francois.rejete.com
+  Twitter: w00kie
+  Location: Tokyo, Japan
+
+/* SITE */
+  Standards: HTML5, CSS3
+  Components: jQuery, jQuery UI
+  Software: TextMate, Coda2
