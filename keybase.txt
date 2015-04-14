@@ -1,0 +1,82 @@
+==================================================================
+https://keybase.io/frejete
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://francois.rejete.com
+  * I am frejete (https://keybase.io/frejete) on keybase.
+  * I have a public key with fingerprint E202 76C0 F466 44EC 7D95  7D2A 8EF7 523D 0CB9 BFA4
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.7.7"
+        },
+        "key": {
+            "fingerprint": "e20276c0f46644ec7d957d2a8ef7523d0cb9bfa4",
+            "host": "keybase.io",
+            "key_id": "8EF7523D0CB9BFA4",
+            "uid": "f62896f4940a5a5f6de350e8d6f10619",
+            "username": "frejete"
+        },
+        "merkle_root": {
+            "ctime": 1428884370,
+            "hash": "762f662f5853c0283dcf45119893ca385b9e40cb0cf508e7ba2c1f85db74d64a1bb01bbeb071cbaf108041fc389fc13338bf5a4502a9f3f13653064986201cd5",
+            "seqno": 197550
+        },
+        "service": {
+            "hostname": "francois.rejete.com",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1428884422,
+    "expire_in": 157680000,
+    "prev": "e02fb6d45e22592779e120437eda761fd86480896abb6d0dc41cd407281ffc7b",
+    "seqno": 6,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v2
+
+owFVkgtQFVUYx3kbRqFoDKQG3hSF4Hp29+zrTtAIxGDlXLOBMKjbPs7C8rh73b0g
+SMRIReCY3jCqSc0yCjITyoaBBr0DTYi8EgaSAQtnIkWZ8QEpaArtEj3cmTOze/b3
+/c///33H9ZC3h5fn3umtsQHN7hrPrsu8R8oTD3YWm3hFLDJZik1CrozsTuPNzuUh
+k8WUg4p4TkNmWQm3KyIyZ2vhC0y0qQCpmqzYdQqYaTNtKok2cKNYku2ZSHWosqFl
+QjjAaUoAEqQoCJFAiyxJizjHIIkmcUIEAs/yEgd1ySxFc953qmle0yaL+i7zdJLB
+J4KEeDY+aaPB58//kCicYSkJshBwJEdKlIgIEiBGpCQMUBhrgBpSFyJJKspGTmTY
+zUNqTi6yqYoyn1lwygaBQZxhGEjQQDfEaVl6DU3hEqUvkiEJAeAMIQoSJDGMZVhC
+4AiG5FkE9RxAkEjAIJrncAGTGFLkaShSkMN4HugL8YDGBJ7TbTEAYpJAMKwkYARB
+MLxEcpAEOMdKhIQRFEkACrIMhQNMEEk9gYa22xXdHEuTJCgxvtUCWUCGb6Nr/4bj
+7IIia+a/Q5oFJU+vdaiKUxGUXB3IcjodmsUI7yxyoO/0nR2Ity2I2XjZLuqz+/9w
+MR29vzEQx6NNqNAhq8gmGwRJUwzQH+MgVGBMHOAST4mQRDhOsjhNswjDgd5RJHI0
+hUkiQ0EG6DPjeB0DogD1kBDQOINJkkDz/8WldJ9cpi6pyZl2zpmv6nOr9Frp4+Hp
+5eHn62XcXo/F/kv+udLZHYGzRHvVtbtTycf7LBWrvSIa64f31hYQ/Ii791e1rmYo
+4/PSaz3xH1Q137G+nM5ZNTK5I0Wy1venFg4eyHc+l9IOD52JGTv4bPVMV0/Q4dYt
+Ny1+beHu/aHBezr3lSekTU0kXoj8bVB8a83kgU+DQlLXB65qJM/NxLpbiw49VXE8
+dFvI2z27G5T4qO7m/TfCQsJOpltemFrlvbUJP2/L4sYSo7pzBswx45P4yE9zXdff
+eLxs7sxUde9R69zd73cuz0AvDrpHfW4t32WrSIgbWlH6aP54OXvhxGMBnLinZSD3
+95CsIt9jUcsihyNvJof0xzh770UMxdpHoPXwarbu9iPvJl3EryRf3QU7ljYN/Vl5
+8dJr9csqu1rK7N1B5dOhKxvX0uOb3K/U48kwTsNOX6ofdY3tK13UU5WX0xk+2p6+
+bWl88KJTDSGx37YfdbV/PPNwtbtMdfVt519vqh29FXZj5qXNEcduq3VfZnjuDP+j
+4cg6U11f8XDrkupTXz2fKL6/w78HeU84TqIwfvaTdYkQbugdjTD/8F7bpp83tsgl
+lfe0sz2tT75aywZ9k9HF15ywvvPZ1faDp6cnn8mynD0y8fWaN88Hzy52BEZaIxOm
+J9I++rHQN/LOh1zLuevwl8txU5n9cw+kVU2U5qxPlX12t/lllg5qCY0BrhbXhoHN
+X2zJvRLt7V9kRSvW/gU=
+=7S/v
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/frejete
+
+==================================================================
